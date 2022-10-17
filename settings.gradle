@@ -1,0 +1,3 @@
+rootProject.name = "ashmem4yuv"
+include ':server'
+include ':client'
