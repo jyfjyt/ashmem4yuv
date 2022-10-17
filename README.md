@@ -1,7 +1,6 @@
-## 只支持Android8.1以上
+# 利用Android共享内存Ashmem来分发YUV视频流
 
-
-
+- 只支持Android8.1以上
 
 
 ## 1. Server端 
